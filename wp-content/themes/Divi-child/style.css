@@ -157,3 +157,6 @@ h2 .woocommerce-loop-product__title {
 a .woocommerce-review-link {
 	color: #cc9900;
 }
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message {
+	background: #cc9900;
+}
